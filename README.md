@@ -1,5 +1,9 @@
 # 声存 · 播客下载器
 
+在线使用：https://anthony20040603.github.io/podcast-downloader-web/
+
+已部署到 GitHub Pages，发布来源为 main 分支根目录。
+
 响应式纯 HTML 网页。双击 index.html 即可在浏览器打开，默认显示“搜索播客”，下面直接是节目下载列表。没有依赖、构建步骤或服务器程序。
 
 支持：使用 Apple 官方跨站回调按名称搜索 Apple Podcasts（中国区，兼容本地 HTML 和 GitHub Pages）；读取允许跨站访问的 RSS；导入 RSS 文件或粘贴 XML；标题筛选与节目勾选；试听；单集和批量下载；下载进度与停止。
