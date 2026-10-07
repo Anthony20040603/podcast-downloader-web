@@ -1,0 +1,7 @@
+podcastTestCallback(
+{
+ "resultCount":1,
+ "results": [
+{"wrapperType":"track", "kind":"podcast", "collectionId":1692517048, "trackId":1692517048, "artistName":"老金、王狗、苏仔", "collectionName":"朋嗑儿", "trackName":"朋嗑儿", "collectionCensoredName":"朋嗑儿", "trackCensoredName":"朋嗑儿", "collectionViewUrl":"https://podcasts.apple.com/cn/podcast/%E6%9C%8B%E5%97%91%E5%84%BF/id1692517048?uo=4", "feedUrl":"https://feed.xyzfm.space/avaamwuwe63a", "trackViewUrl":"https://podcasts.apple.com/cn/podcast/%E6%9C%8B%E5%97%91%E5%84%BF/id1692517048?uo=4", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c8/48/1b/c8481bbf-6564-a387-a3ab-2fd65ad67091/mza_12832036163480684214.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c8/48/1b/c8481bbf-6564-a387-a3ab-2fd65ad67091/mza_12832036163480684214.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c8/48/1b/c8481bbf-6564-a387-a3ab-2fd65ad67091/mza_12832036163480684214.jpg/100x100bb.jpg", "collectionPrice":0.00, "trackPrice":0.00, "collectionHdPrice":0, "releaseDate":"2026-09-14T00:00:00Z", "collectionExplicitness":"notExplicit", "trackExplicitness":"cleaned", "trackCount":168, "trackTimeMillis":4465, "country":"CHN", "currency":"CNY", "primaryGenreName":"休闲", "contentAdvisoryRating":"Clean", "artworkUrl600":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c8/48/1b/c8481bbf-6564-a387-a3ab-2fd65ad67091/mza_12832036163480684214.jpg/600x600bb.jpg", "genreIds":["1502", "26"], "genres":["休闲", "播客"]}]
+}
+);
